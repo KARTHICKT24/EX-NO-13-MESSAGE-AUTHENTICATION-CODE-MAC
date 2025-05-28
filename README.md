@@ -85,7 +85,8 @@ int main() {
 
 
 ## Output:
-![Screenshot 2024-11-14 083134](https://github.com/user-attachments/assets/b8a5594f-e0dd-4171-843f-fd2bfd1d61ee)
+
+![CRY 13](https://github.com/user-attachments/assets/9551f87a-a440-4485-9560-64f3d39ad2be)
 
 
 ## Result:
